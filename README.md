@@ -7,9 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Twelve Starter API Kit
-
-# Laravel 12 Starter API Kit
+## Twelve Starter API Kit
 
 A robust, production-ready API starter kit built on Laravel 12. Designed to help you kickstart your next Laravel-based SaaS or backend application with all the essentials — from authentication to payment integration — already wired up.
 
@@ -80,20 +78,10 @@ This starter kit includes the following:
 
 ---
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/your-username/laravel-12-starter-kit.git
-cd laravel-12-starter-kit
-composer install
-cp .env.example .env
-php artisan key:generate
-php artisan migrate
-php artisan db:seed # (optional demo data)
-php artisan serve
-
-
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+The Twelve API Strater Kit is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+```
+
 ```
